@@ -9,3 +9,7 @@ Pontuação_vôlei=500
 print(type(Pontuação_vôlei))
 Data="15/10/2025"
 print(type(Data))
+print(15+15)
+Resultado=10/3
+print(Resultado)
+print(type(Resultado))
